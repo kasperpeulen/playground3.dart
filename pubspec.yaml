@@ -2,7 +2,7 @@ name: playground3
 description:
 author: Kasper Peulen <kasperpeulen@gmail.com>
 homepage: https://github.com/kasperpeulen/playground3.dart
-version: 0.0.0
+version: 0.0.1
 environment:
   sdk: ^1.13.0
 dev_dependencies:
